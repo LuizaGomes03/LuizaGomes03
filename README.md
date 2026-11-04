@@ -1,10 +1,8 @@
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:5E3B24,50:7F5539,100:A0673D&text=Luiza%20Gomes&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=60&descSize=18" width="100%" alt="Luiza Gomes — Estudante de Ciência da Computação" /></picture>
+
 <div align="center">
 
-<h1>Luiza Ignacio Gomes</h1>
-
-<b>Análise de Dados · Business Intelligence · Ciência da Computação</b>
-
-<br><br>
+<br>
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-7F5539?style=for-the-badge&logo=googlechrome&logoColor=white)](https://luizagomes03.github.io/portfolioo/)
 &nbsp;
@@ -33,3 +31,7 @@ Power BI · SQL · Python para análise e visualização de dados.
 ### Idiomas
 
 Português (nativo) · Inglês (avançado, C1) · Espanhol (em estudo)
+
+<br>
+
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:A0673D,50:7F5539,100:5E3B24" width="100%" alt="" /></picture>
