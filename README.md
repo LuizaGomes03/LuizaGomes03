@@ -15,10 +15,10 @@
 
 Sou estudante de **Ciência da Computação** no Instituto Mauá de Tecnologia e tecnóloga em **Inteligência Artificial** pela FIAP. Gosto de transformar dados, processos e boas ideias em soluções digitais úteis e acessíveis.
 
-- 🔎 Buscando oportunidades de estágio em Dados, BI e Tecnologia
-- 🧠 Interesse em Data Science, Machine Learning e Visão Computacional
-- 💻 Experiência com automação, desenvolvimento mobile e bancos de dados
-- 🌱 Voluntária do Pacotinho de Amor em feiras de adoção e divulgação de animais
+- Buscando oportunidades de estágio em Dados, BI e Tecnologia
+- Interesse em Data Science, Machine Learning e Visão Computacional
+- Experiência com automação, desenvolvimento mobile e bancos de dados
+- Voluntária do Pacotinho de Amor em feiras de adoção e divulgação de animais
 
 ## Tecnologias & ferramentas
 
