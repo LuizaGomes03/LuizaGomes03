@@ -21,16 +21,16 @@
 
 ---
 
-## 👩🏻‍💻 Sobre mim
+## Sobre mim
 
 Sou **tecnóloga em Inteligência Artificial pela FIAP** e atualmente curso **Bacharelado em Ciência da Computação no Instituto Mauá de Tecnologia**.
 
 Tenho interesse em transformar dados em informações relevantes, desenvolver soluções tecnológicas e conectar tecnologia às necessidades do negócio. Gosto de explorar problemas, aprender ferramentas novas e construir projetos que gerem resultados práticos.
 
-- 🎓 **Formação:** Tecnologia em Inteligência Artificial — FIAP (concluído).
-- 📚 **Graduação:** Ciência da Computação — Instituto Mauá de Tecnologia (em andamento).
-- 📊 **Interesses:** Análise de Dados, Business Intelligence, Data Science e Inteligência Artificial.
-- 🌱 **Aprendizado contínuo:** aprofundando conhecimentos em programação, dados e estudando espanhol.
+-  **Formação:** Tecnologia em Inteligência Artificial — FIAP (concluído).
+-  **Graduação:** Ciência da Computação — Instituto Mauá de Tecnologia (em andamento).
+-  **Interesses:** Análise de Dados, Business Intelligence, Data Science e Inteligência Artificial.
+-  **Aprendizado contínuo:** aprofundando conhecimentos em programação, dados e estudando espanhol.
 
 ## 🧰 Tecnologias & ferramentas
 
@@ -93,8 +93,6 @@ Tenho interesse em transformar dados em informações relevantes, desenvolver so
 ---
 
 <div align="center">
-
-**Além da tecnologia:** gosto de montar quebra-cabeças, fazer peças de cerâmica fria e aprender coisas novas.
 
 *Transformando curiosidade em conhecimento e conhecimento em soluções.*
 
