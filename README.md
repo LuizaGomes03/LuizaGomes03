@@ -1,6 +1,6 @@
 # ✨ Olá! Eu sou Luiza Ignacio Gomes
 
-### Ciência da Computação | Inteligência Artificial | Dados & Tecnologia
+### Análise de Dados & Business Intelligence | Ciência da Computação | Inteligência Artificial
 
 <p align="center">
   <a href="https://luizagomes03.github.io/portfolioo/"><img src="https://img.shields.io/badge/Meu%20Portf%C3%B3lio-8B6CCF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
@@ -12,15 +12,15 @@
 
 ## 👩🏻‍💻 Sobre mim
 
-Sou tecnóloga em **Inteligência Artificial pela FIAP** e atualmente estudante de **Ciência da Computação no Instituto Mauá de Tecnologia**.
+Sou formada no curso superior de **Tecnologia em Inteligência Artificial pela FIAP** e atualmente curso **Bacharelado em Ciência da Computação no Instituto Mauá de Tecnologia**.
 
-Gosto de explorar como tecnologia, dados e inteligência artificial podem transformar informações em soluções úteis, inteligentes e acessíveis.
+Tenho interesse em transformar dados em informações relevantes para apoiar decisões e desenvolver soluções tecnológicas. Gosto de unir pensamento analítico, programação e visão de negócio para resolver problemas reais.
 
-- 🎓 Tecnóloga em Inteligência Artificial — FIAP.
+- 🎓 Tecnóloga em Inteligência Artificial — FIAP (concluído).
 - 📚 Bacharelado em Ciência da Computação — Instituto Mauá de Tecnologia (em andamento).
-- 🔎 Interesses em Data Science, Business Intelligence, Machine Learning e Visão Computacional.
-- 💡 Experiência acadêmica com automação, desenvolvimento de aplicações e bancos de dados.
-- 🐾 Voluntária no projeto Pacotinho de Amor, apoiando iniciativas de adoção responsável.
+- 📊 Áreas de interesse: Análise de Dados, Business Intelligence, Data Science e Inteligência Artificial.
+- 🧠 Estudos e projetos com Python, SQL, bancos de dados, Machine Learning e visualização de dados.
+- 🌎 Atualmente também estou estudando espanhol.
 
 ## 🛠️ Tecnologias & ferramentas
 
@@ -34,7 +34,7 @@ Gosto de explorar como tecnologia, dados e inteligência artificial podem transf
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
@@ -43,11 +43,11 @@ Gosto de explorar como tecnologia, dados e inteligência artificial podem transf
 
 | Projeto | Sobre | Tecnologias |
 |:--|:--|:--|
-| [Portfólio](https://github.com/LuizaGomes03/portfolioo) | Meu espaço para reunir trajetória, projetos e interesses. | HTML · CSS · JavaScript |
+| [Portfólio](https://github.com/LuizaGomes03/portfolioo) | Minha trajetória, projetos e interesses profissionais. | HTML · CSS · JavaScript |
 | [Pacotinho de Amor](https://github.com/LuizaGomes03/Pacotinho) | Plataforma voltada à adoção responsável de animais. | Web · Banco de dados |
-| [SEMOB-SCS](https://github.com/LuizaGomes03/SEMOB-SCS) | Dashboard em desenvolvimento para indicadores do transporte público de São Caetano do Sul. | Flutter · Dart |
-| [Dominó Químico](https://github.com/LuizaGomes03/Domino_quimico) | Plataforma educacional com salas multiplayer. | Next.js · Tailwind CSS · Figma |
-| [Sweet Dough](https://github.com/LuizaGomes03/Sweet-Dough) | Projeto pessoal que une desenvolvimento web, identidade visual e experiência do usuário. | Web · Branding · UX |
+| [SEMOB-SCS](https://github.com/LuizaGomes03/SEMOB-SCS) | Dashboard para acompanhamento de indicadores do transporte público de São Caetano do Sul. | Flutter · Dart |
+| [Dominó Químico](https://github.com/LuizaGomes03/Domino_quimico) | Plataforma educacional com salas multiplayer. | Next.js · Tailwind CSS |
+| [Sweet Dough](https://github.com/LuizaGomes03/Sweet-Dough) | Projeto que reúne desenvolvimento web, identidade visual e experiência do usuário. | Web · UX |
 
 ## 📊 GitHub Analytics
 
@@ -68,7 +68,7 @@ Gosto de explorar como tecnologia, dados e inteligência artificial podem transf
 
 ## 🌷 Além do código
 
-Quando não estou estudando ou desenvolvendo projetos, gosto de montar quebra-cabeças, fazer peças de cerâmica fria e aprender coisas novas. Atualmente também estou estudando espanhol.
+Fora da tecnologia, gosto de montar quebra-cabeças, fazer peças de cerâmica fria e aprender coisas novas.
 
 <p align="center">
   <i>Transformando curiosidade em conhecimento e conhecimento em soluções.</i>
