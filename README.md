@@ -12,7 +12,7 @@
 
 ---
 
-Estudante de Ciência da Computação no Instituto Mauá de Tecnologia e tecnóloga em Inteligência Artificial pela FIAP. Trabalho com dados para gerar indicadores claros e apoiar decisões de negócio, e estou em busca de estágio em Análise de Dados.
+Estudante de Ciência da Computação no Instituto Mauá de Tecnologia e tecnóloga em Inteligência Artificial pela FIAP.
 
 ### Projetos em destaque
 
@@ -31,6 +31,16 @@ Power BI · SQL · Python para análise e visualização de dados.
 ### Idiomas
 
 Português (nativo) · Inglês (avançado, C1) · Espanhol (em estudo)
+
+### Atividade no GitHub
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizaGomes03/LuizaGomes03/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizaGomes03/LuizaGomes03/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação da cobrinha percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/LuizaGomes03/LuizaGomes03/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 <br>
 
