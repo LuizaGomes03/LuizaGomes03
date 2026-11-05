@@ -32,16 +32,6 @@ Power BI · SQL · Python para análise e visualização de dados.
 
 Português (nativo) · Inglês (avançado, C1) · Espanhol (em estudo)
 
-### Atividade no GitHub
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizaGomes03/LuizaGomes03/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizaGomes03/LuizaGomes03/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação da cobrinha percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/LuizaGomes03/LuizaGomes03/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 <br>
 
 <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7B2CBF,50:5A189A,100:3C096C" width="100%" alt="" /></picture>
