@@ -20,7 +20,7 @@ Estudante de Ciência da Computação no Instituto Mauá de Tecnologia e tecnól
 |:--|:--|
 | [**SEMOB-SCS**](https://github.com/LuizaGomes03/SEMOB-SCS) | Dashboard de indicadores do transporte público de São Caetano do Sul, desenvolvido para um cliente real. |
 | [**Pacotinho**](https://github.com/LuizaGomes03/Pacotinho) | Plataforma web para adoção responsável de animais. |
-| [**Sweet Dough**](https://github.com/LuizaGomes03/Sweet-Dough) | Site e identidade visual para um negócio de confeitaria. |
+| [**Sweet Dough**](https://github.com/LuizaGomes03/Sweet-Dough) | Site e identidade visual para o meu negócio. |
 
 ### Ferramentas
 
