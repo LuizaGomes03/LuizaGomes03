@@ -1,12 +1,12 @@
-<picture><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:5E3B24,50:7F5539,100:A0673D&text=Luiza%20Gomes&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=60&descSize=18" width="100%" alt="Luiza Gomes — Estudante de Ciência da Computação" /></picture>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:3C096C,50:5A189A,100:7B2CBF&text=Luiza%20Gomes&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=60&descSize=18" width="100%" alt="Luiza Gomes — Estudante de Ciência da Computação" /></picture>
 
 <div align="center">
 
 <br>
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-7F5539?style=for-the-badge&logo=googlechrome&logoColor=white)](https://luizagomes03.github.io/portfolioo/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-5A189A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://luizagomes03.github.io/portfolioo/)
 &nbsp;
-[![E-mail](https://img.shields.io/badge/E--mail-7F5539?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizaignacio13@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-5A189A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizaignacio13@gmail.com)
 
 </div>
 
@@ -44,4 +44,4 @@ Português (nativo) · Inglês (avançado, C1) · Espanhol (em estudo)
 
 <br>
 
-<picture><img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:A0673D,50:7F5539,100:5E3B24" width="100%" alt="" /></picture>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7B2CBF,50:5A189A,100:3C096C" width="100%" alt="" /></picture>
